@@ -1,11 +1,5 @@
-# Saal releases
+# Saal updates
 
-Installers for **Saal**, a Windows app that reads text aloud from anywhere, in a
-queue. Saal checks this page for updates by itself; you only need it for a first
-install.
-
-Download **Saal-Setup-<version>.exe** from the newest release below and run it.
-Windows may say "Windows protected your PC" because the app isn't signed yet:
-choose More info, then Run anyway.
-
-This repository holds releases only.
+Update files for Saal, used by the app to update itself. They are locked and
+can't be installed from here. To try Saal, ask the person who invited you for
+the Setup file.
